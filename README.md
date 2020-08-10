@@ -13,3 +13,6 @@
 
    - Music Recommender
 
+-----
+
+Completed on August 10 2020
